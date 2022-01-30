@@ -3,7 +3,7 @@ name: Go test
 on:
   push:
     branches:
-      git add - main
+      - main
 
 jobs:
   build:
